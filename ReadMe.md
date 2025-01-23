@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey!<br>I am AHQ, a tech enthusiast from India<br><br>🔭 I’m currently working on **[AHQ Store](https://github.com/ahqsoftwares/tauri-ahq-store)**<br>💬 You can ask me about **anything**<br>⚡ Fun fact: **AHQ Store** is my 1st app written in the tauri framework<br>🌏 Discord: **ahqsoftwares**
+👋 Hey!<br>I am Akshanabha Chakraborty (aka AHQ) , a tech enthusiast from India<br><br>🔭 I’m currently working on **[AHQ Store](https://github.com/ahqsoftwares/tauri-ahq-store)**<br>💬 You can ask me about **anything**<br>⚡ Fun fact: **AHQ Store** is my 1st app written in the tauri framework<br>🌏 Discord: **ahqsoftwares**
 
 
 ## 🌐 Socials:
